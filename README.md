@@ -96,9 +96,3 @@ The system is integrated with a **Streamlit UI**, allows **batch processing**, a
 - 🌍 **Global Enterprises** – Multilingual sustainability documentation insight
 
 ---
-
-## 🤝 **Collaboration & Contact**
-
-Feel free to contribute or raise issues. For collaboration or business inquiries, contact me via [LinkedIn](https://www.linkedin.com/in/mohamed-sahad-m-96b038200/) or open an issue here.
-
----
